@@ -1,0 +1,38 @@
+
+=== Mon Sep 16 22:07:08 2019
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.package-manager-ui@2.2.0
+  com.unity.ext.nunit@1.0.0
+  com.unity.test-framework@1.0.13
+  com.unity.ide.vscode@1.1.0
+  com.unity.ide.rider@1.1.0
+  com.unity.ugui@1.0.0
+  com.unity.modules.androidjni@1.0.0
+The following packages were updated:
+  com.unity.collab-proxy from version 1.2.9 to 1.2.16
+  com.unity.textmeshpro from version 2.0.0 to 2.0.1
+  com.unity.timeline from version 0.0.0-builtin to 1.1.0
+
+=== Wed Apr 26 09:23:14 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were 已添加:
+  com.unity.ide.visualstudio@2.0.16
+The following packages were 已更新:
+  com.unity.collab-proxy 从版本 1.2.16 到 1.17.2
+  com.unity.ext.nunit 从版本 1.0.0 到 1.0.6
+  com.unity.ide.rider 从版本 1.1.0 到 3.0.15
+  com.unity.ide.vscode 从版本 1.1.0 到 1.2.5
+  com.unity.postprocessing 从版本 2.1.7 到 3.2.2
+  com.unity.probuilder 从版本 4.0.5 到 5.0.4
+  com.unity.test-framework 从版本 1.0.13 到 1.1.33
+  com.unity.textmeshpro 从版本 2.0.1 到 3.0.6
+  com.unity.timeline 从版本 1.1.0 到 1.7.1
+The following packages were 已移除:
+  com.unity.package-manager-ui@2.2.0
